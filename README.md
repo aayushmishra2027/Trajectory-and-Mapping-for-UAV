@@ -1,2 +1,2 @@
 # Aerial-Robotics
-assignment solutions for Coursera Course - Aerial Robotics (by UPenn)
+trajectory generation for aerial unmanned vehicles/robots using MATLAB code
